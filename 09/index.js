@@ -2,7 +2,6 @@ const nota = 8.5;
 
 
 
-
 if (nota >=9 && nota <= 10){
     console.log ("A")
 }
